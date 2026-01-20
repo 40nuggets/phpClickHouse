@@ -1,15 +1,14 @@
 {
-  "name": "smi2/phpclickhouse",
+  "name": "40nuggets/phpclickhouse",
   "type": "library",
   "description": "PHP ClickHouse Client",
   "keywords": ["clickhouse", "driver", "client", "curl", "http", "HTTP client", "php"],
-  "homepage": "https://github.com/smi2/phpClickHouse",
+  "homepage": "https://github.com/40nuggets/phpClickHouse",
   "license": "MIT",
   "authors": [
     {
-      "name": "Igor Strykhar",
-      "email": "isublimity@gmail.com",
-      "homepage": "https://github.com/isublimity"
+      "name": "40nuggets",
+      "homepage": "https://github.com/40nuggets"
     }
   ],
   "require": {
